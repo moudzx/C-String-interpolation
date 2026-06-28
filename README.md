@@ -3,7 +3,7 @@ Rust-style string interpolation for C -- use {variable} directly in format strin
 
  
 ```c
-int age = 22;
+int age = 26;
 char *name = "Moss";
 watch(age);
 watch(name);
